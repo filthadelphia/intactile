@@ -1,0 +1,15 @@
+{
+    "botToken": "Nzg2MDkwMzUyNDY0MzYzNTU4.G8fYya.7oU9MW4hGLNpbP7UN-F0EMylpxKdDplg2wy1Wo",
+    "prefix": "pk.",
+ 
+    "api": {
+        "MaxTime": 600,
+        "Cons": 5
+    },
+
+    "urls": {
+        "RebirthAPI": "https://rebirthapi.com/api?key=K1FHVQ877R4C2V3UEWQE&host=%s&port=%s&time=%s&method=%s",
+        "RebirthActiveAttacks": "https://rebirthapi.com/api/running?key=K1FHVQ877R4C2V3UEWQE",
+        "GEOIP": "http://ip-api.com/json/%s"
+    }
+}
